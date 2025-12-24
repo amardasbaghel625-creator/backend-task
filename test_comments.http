@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/accounts/1/tasks/10/comments
+Content-Type: application/json
+
+{
+  "text": "Comment from VS Code"
+}
+
